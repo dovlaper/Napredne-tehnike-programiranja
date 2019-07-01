@@ -1,0 +1,9 @@
+Simulacija dvostrukog klatna
+
+Sekvencijalna verzija bice implementirana u programskom jeziku Python
+Paralelizovana verzija implementirana u programskom jeziku Python (multiprocessing library)
+Druga sekvencijalna verzija bice implementirana u Go(lang)
+Druga paralelizovana verzija bice implementirana u Go(lang) koristeci goroutine.
+
+Analizirace se poredjenje vremena izvrsavanja sekvencijalnih implementacija, kao i jakog i slabog skaliranja paralelnih implementacija
+Vizualizavija poredjenja bice izvrsena koriscenjem programskog jezika Pharo
